@@ -1,14 +1,7 @@
-/*упростить код*/
-.eee {
-	font-size: 20px;
+h2.header {
+	color: red;
+    font-size: 40px;
 }
-.zzz {
-	font-size: 30px;
-}
-.ggg {
-	font-size: 35px;
-}
-.eee, .ggg, .zzz{
-    text-align: center;
-	font-family: Arial;
+h3.header{
+    font-size: 30px;
 }
