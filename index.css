@@ -1,10 +1,5 @@
-i {
-	font-size: 30px;
+/* упростить код с помощью группировки*/
+h1, h2, h3 {
+	text-align: center;
 }
-ul {
-	font-size: 20px;
-}
-li {
-	color: red;
-	font-weight: bold;
-}
+
